@@ -1,0 +1,2 @@
+# gitignore
+マルチバイトを含むフォルダ・ファイルをgit管理外にするためのgitignore
